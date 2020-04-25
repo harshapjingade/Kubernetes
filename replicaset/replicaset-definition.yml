@@ -23,3 +23,10 @@ spec:
     matchLabels:
       app: myapp
 
+# kubectl create -f <filename>
+
+# kubectl get replicaset
+
+# kubectl describe replicaset <replicaset-name>
+
+# kubectl get pods

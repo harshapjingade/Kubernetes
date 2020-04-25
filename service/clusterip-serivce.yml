@@ -10,3 +10,10 @@ spec:
   selector:
     app: myapp
     type: back-end
+
+# kubectl create -f <filename>
+
+# kubectl get services
+
+# kubectl describe service <service-name>
+

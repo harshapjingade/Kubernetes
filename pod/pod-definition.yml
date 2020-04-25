@@ -11,3 +11,9 @@ spec:
   containers:
     - name: nginx-container
       image: nginx
+
+# kubectl create -f <filename>
+
+# kubectl get pods
+
+# kubectl describe pod <pod-name>

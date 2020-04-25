@@ -10,3 +10,11 @@ spec:
       nodePort: 30008
   selector:
     app: myapp
+
+# kubectl create -f <filename>
+
+# kubectl get services
+
+# kubectl describe service <service-name>
+
+# curl http://<ip-address>:30008
